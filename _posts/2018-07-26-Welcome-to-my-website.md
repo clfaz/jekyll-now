@@ -3,7 +3,7 @@ layout: post
 title: ''
 published: true
 ---
-Hi, I'm Claire! I'm a composer based in Hobart, Tasmania. 
+Hi, I'm Claire! I'm a composer of contemporary classical music based in Hobart, Tasmania. 
 
 I'm half way through my bachelor degree in classical music composition and I'm passionate about sharing my music with a broader audience - so I've made a website! Stay tuned for udates on new projects, performances and recordings of my work. 
 
