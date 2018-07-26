@@ -5,13 +5,9 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
-
-### More Information
-
 Claire is a Hobart-based composer, currently studying composition with Dr Maria Grenfell at the University of Tasmania Conservatorium of Music.
 
-Her portfolio of commissions and notable achievements inlcudes:\
+### Her portfolio of commissions and notable achievements inlcudes:
 
 - Flinders Quartet Composer Development Program 2018: "Transient Rush", for string quartet
 
