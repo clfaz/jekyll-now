@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Claire is a Hobart-based composer, currently studying composition with Dr Maria Grenfell at the University of Tasmania Conservatorium of Music.
+Claire is a Hobart-based composer, currently studying composition with Dr Maria Grenfell at the University of Tasmania Conservatorium of Music. Her musical style is informed by her love of nature, melodic lines, driving rhythms and story-telling.
 
 ### Claire's portfolio of commissions and notable achievements inlcudes:
 
-- Flinders Quartet Composer Development Program 2018: "Transient Rush" for string quartet
+- [Flinders Quartet Composer Development Program 2018](http://www.flindersquartet.com/composerworkshop/): "Transient Rush" for string quartet
 
 - Website theme music for  children's book series [Dunstan and Theodore](https://www.dunstanandtheodore.com/) by Tasmanian author Sharon J.Yaxely: ["Friendship Theme"](https://www.dunstanandtheodore.com/dunstan-and-theodore/) and ["Adventure Theme"](https://www.dunstanandtheodore.com/theodore-swims-in-the-sea/) for flute, violin and piano 
 
