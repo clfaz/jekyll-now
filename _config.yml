@@ -9,7 +9,7 @@ name: Claire L. Farrell
 description: Composer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: []({{site.baseurl}}/images/20180113_131215_HDR.jpg)
+avatar: ({{site.baseurl}}/images/20180113_131215_HDR.jpg)
 
 #
 # Flags below are optional
