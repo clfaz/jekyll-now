@@ -9,9 +9,9 @@ Claire is a Hobart-based composer, currently studying composition with Dr Maria 
 
 ### Claire's portfolio of commissions and notable achievements inlcudes:
 
-- Flinders Quartet Composer Development Program 2018: "Transient Rush", for string quartet
+- Flinders Quartet Composer Development Program 2018: "Transient Rush" for string quartet
 
-- Website theme music for  children's book series 'Dunstan and Theordore' by Tasmanian author Sharon J.Yaxely: "Friendship Theme" and "Adventure Theme" for flute, violin and piano
+- Website theme music for  children's book series [Dunstan and Theodore](https://www.dunstanandtheodore.com/) by Tasmanian author Sharon J.Yaxely: ["Friendship Theme"](https://www.dunstanandtheodore.com/dunstan-and-theodore/) and ["Adventure Theme"](https://www.dunstanandtheodore.com/theodore-swims-in-the-sea/) for flute, violin and piano 
 
 - Junior Trumpet Test Piece for the 2017 Yamaha Australian National Band Championships: "Life" for solo trumpet and piano accompaniment
 
