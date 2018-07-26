@@ -21,6 +21,6 @@ Claire is a Hobart-based composer, currently studying composition with Dr Maria 
 
 
 
-### Contact me
+### Contact Claire:
 
-[email@domain.com](mailto:email@domain.com)
+contact@clairefarrellmusic.com
