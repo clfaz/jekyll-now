@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Claire is a Hobart-based composer, currently studying composition with Dr Maria Grenfell at the University of Tasmania Conservatorium of Music. Her musical style is informed by her love of nature, melodic lines, driving rhythms and story-telling.
+Claire is a Hobart-based composer, currently studying composition with Dr Maria Grenfell at the University of Tasmania Conservatorium of Music. Her musical style is informed by her love of nature, characterised by polyphonic melodic lines, driving rhythms and musical imagery.
 
 ### Claire's portfolio of commissions and notable achievements inlcudes:
 
