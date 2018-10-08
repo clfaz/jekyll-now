@@ -15,11 +15,11 @@ Claire is a Hobart-based composer, currently studying composition with Dr Maria 
 
 - Website theme music for  children's book series [Dunstan and Theodore](https://www.dunstanandtheodore.com/) by Tasmanian author Sharon J.Yaxely: ["Friendship Theme"](https://www.dunstanandtheodore.com/dunstan-and-theodore/) and ["Adventure Theme"](https://www.dunstanandtheodore.com/theodore-swims-in-the-sea/) for flute, violin and piano 
 
-- Junior Trumpet Test Piece for the 2017 Yamaha Australian National Band Championships: "Life" for solo trumpet and piano accompaniment
+- Junior Trumpet Test Piece for the 2017 Yamaha Australian National Band Championships: "Life: a round and about journey" for solo trumpet and piano accompaniment
 
-- TSO Composer Project 2016: "Piguenit: A Mountain Story" for violin, trombone and double bass
+- TSO Composer Project 2016: "Piguenit: a Mountain Story" for violin, trombone and double bass
 
-- Launceston College Edward Wesley Memorial Prize for Music and Mary Woolhouse Music Award in 2016.
+- Launceston College Edward Wesley Memorial Prize for Music and Mary Woolhouse Music Award in 2016
 
 
 
