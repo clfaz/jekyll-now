@@ -11,7 +11,7 @@ Claire is a Hobart-based composer, currently studying composition with Dr Maria 
 
 - Current recipient of the DJ Motors Music Scholarship at the University of Tasmania
 
-- "Lithium" for large mixed ensemble (2(1, picc)111 - 212(1, b.tbn)1 - 0T + 1per (vibraphone, bass drum, suspended cymbal, egg shaker) commissioned by the [Tasmanian Symphony Orchestra](https://www.tso.com.au/drill-collaboration/) and [DRILL](https://www.drillperformance.com/) for DRILL's 2019 major season, [NEON](https://www.drillperformance.com/neon)
+- "Lithium" (2019) for large mixed ensemble (2(1, picc)111 - 212(1, b.tbn)1 - 0T + 1per (vibraphone, bass drum, suspended cymbal, egg shaker) commissioned by the [Tasmanian Symphony Orchestra](https://www.tso.com.au/drill-collaboration/) and [DRILL](https://www.drillperformance.com/) for DRILL's 2019 major season, [NEON](https://www.drillperformance.com/neon)
 
 - [Flinders Quartet Composer Development Program 2018](http://www.flindersquartet.com/composerworkshop/): ["Transient Rush"](https://www.youtube.com/watch?v=AAIErE9jPPo&t=11m48s) for string quartet
 
